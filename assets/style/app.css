@@ -1,0 +1,20 @@
+* {
+    font-family: 'poppins' , sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+nav a{
+    font-family: 'pacifico', cursive;
+}
+
+footer p{
+    font-family: 'pacifico', cursive;
+}
